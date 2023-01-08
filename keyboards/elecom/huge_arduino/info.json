@@ -1,0 +1,10 @@
+{
+    "keyboard_name": "Huge",
+    "manufacturer": "Elecom",
+    "maintainer": "Vladeeg",
+    "usb": {
+        "vid": "0x5043",
+        "pid": "0x5442",
+        "device_version": "0.0.1"
+    }
+}
